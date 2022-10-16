@@ -1,9 +1,10 @@
-### Olá! Me chamo Sírio Neto!
+### Olá! Me chamo Sírio!
 
 - 🔭 Atualmente trabalhando como desenvolvedor full stack, contribuíndo para construção de aplicações web;
 - 🌱 Cursando "Tecnologia em Análise e Desenvolvimento de Sistemas - IFRS".
 
 ##
+### Tenho conhecimentos em:
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP" alt="PHP" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain-wordmark.svg" title="Laravel" alt="Laravel" width="40" height="40"/>&nbsp;
@@ -21,6 +22,7 @@
 </div>
 
 ##
+### Mídias sociais:
 <div>
   <a href="https://www.linkedin.com/in/sirio-neto/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" title="LinkedIn" **alt="LinkedIn"/>
