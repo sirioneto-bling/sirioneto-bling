@@ -22,12 +22,12 @@
 </div>
 
 ##
-### Mídias sociais:
+### Perfis em mídias sociais:
 <div>
-  <a href="https://www.linkedin.com/in/sirio-neto/">
+  <a href="https://www.linkedin.com/in/sirio-neto/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" title="LinkedIn" **alt="LinkedIn"/>
   </a>
-  <a hre="https://www.instagram.com/sirio.neto/">
+  <a href="https://www.instagram.com/sirio.neto/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" title="Instagram" **alt="Instagram"/>
   </a>
 </div>
