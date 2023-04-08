@@ -1,8 +1,8 @@
 # Olá 👋, eu me chamo Sírio Neto
 
 ### Atualmente:
-- 🔭 Trabalho como desenvolvedor full stack no *[Bling](https://www.bling.com.br)*;
-- 🌱 Estudo "Tecnologia em Análise e Desenvolvimento de Sistemas" no *[IFRS](https://ifrs.edu.br/bento/)*;
+- 👨🏽‍🎓 Graduado em "Tecnologia em Análise e Desenvolvimento de Sistemas" no *[IFRS - Campus Bento Gonçalves](https://ifrs.edu.br/bento/)*;
+- 🔭 Atuando como desenvolvedor full stack no *[Bling ERP](https://www.bling.com.br)*;
 
 ##
 ### 🖥️ Tecnologias e Ferramentas: 
