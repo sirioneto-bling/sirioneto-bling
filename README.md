@@ -3,7 +3,7 @@
 ### Atualmente:
 - 👨🏽‍🎓 Graduado em "Tecnologia em Análise e Desenvolvimento de Sistemas" no *[IFRS - Campus Bento Gonçalves](https://ifrs.edu.br/bento/)*;
 - 📚 Cursando Pós-graduação em "Software Architecture" na *[FIAP](https://www.linkedin.com/school/fiap/)*;
-- 🔭 Atuando como desenvolvedor full stack no *[Bling ERP](https://www.bling.com.br)*.
+- 🔭 Trabalho como desenvolvedor full stack no *[Bling ERP](https://www.bling.com.br)*.
 
 ##
 ### 🖥️ Tecnologias e Ferramentas: 
