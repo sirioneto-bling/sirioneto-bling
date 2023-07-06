@@ -1,9 +1,9 @@
-# Olá 👋, eu me chamo Sírio Neto
+# Olá 👋, eu sou Sírio Neto
 
 ### Atualmente:
 - 👨🏽‍🎓 Graduado em "Tecnologia em Análise e Desenvolvimento de Sistemas" no *[IFRS - Campus Bento Gonçalves](https://ifrs.edu.br/bento/)*;
 - 📚 Cursando Pós-graduação em "Software Architecture" na *[FIAP](https://www.linkedin.com/school/fiap/)*;
-- 🔭 Trabalho como desenvolvedor full stack no *[Bling ERP](https://www.bling.com.br)*.
+- 🔭 Trabalhando como desenvolvedor full stack no *[Bling ERP](https://www.bling.com.br)*.
 
 ##
 ### 🖥️ Tecnologias e Ferramentas: 
@@ -12,7 +12,8 @@
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title = "Javascript"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" title="VueJS"/></code>
-<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS"/></code>
+<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" title="TypeScript"/></code>
+<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" title="NodeJS"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" title="PHP"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" title="Go"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title = "MYSQL"/></code>
