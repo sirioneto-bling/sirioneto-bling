@@ -1,6 +1,4 @@
-# Olá 👋, eu sou Sírio Neto
-
-### Sobre mim:
+### Sobre:
 - 👨🏽‍🎓 Graduado em "Tecnologia em Análise e Desenvolvimento de Sistemas" no *[IFRS - Campus Bento Gonçalves](https://ifrs.edu.br/bento/)*;
 - 📚 Cursando Pós-graduação em "Software Architecture" na *[FIAP](https://www.linkedin.com/school/fiap/)*;
 - 🔭 Trabalhando como desenvolvedor full stack pleno no *[Bling ERP](https://www.bling.com.br)*;
