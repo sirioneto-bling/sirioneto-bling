@@ -2,7 +2,6 @@
 - 👨🏽‍🎓 Graduado em "Tecnologia em Análise e Desenvolvimento de Sistemas" no *[IFRS - Campus Bento Gonçalves](https://ifrs.edu.br/bento/)*;
 - 📚 Cursando Pós-graduação em "Software Architecture" na *[FIAP](https://www.linkedin.com/school/fiap/)*;
 - 🔭 Trabalhando como desenvolvedor full stack pleno no *[Bling ERP](https://www.bling.com.br)*;
-- 🔗 Página pessoal: [sirioneto.gitlab.io](https://sirioneto.gitlab.io/)
 
 ##
 ### 🖥️ Tecnologias e Ferramentas: 
@@ -22,8 +21,8 @@
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title = "Git"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title = "Github"/></code>
 ##
-<a href="https://sirioneto.gitlab.io/" target="_blank">
-  <img src="https://img.shields.io/badge/Gitlab%20User%20Page-333333?style=for-the-badge&logo=gitlab&logoColor=F56040" title="Página de portfólio usando gitlab pages"/>
+<a href="https://sirioneto.github.io/" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub%20Page-333333?style=for-the-badge&logo=github&logoColor=F56040" title="Single page application usando github pages"/>
 </a>
 <a href="https://www.linkedin.com/in/sirio-neto/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" title="Perfil do LinkedIn"/>
