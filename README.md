@@ -21,7 +21,7 @@
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title = "Git"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title = "Github"/></code>
 ##
-<a href="https://sirioneto.github.io/" target="_blank">
+<a href="https://sirioneto-bling.github.io/" target="_blank">
   <img src="https://img.shields.io/badge/GitHub%20Page-333333?style=for-the-badge&logo=github&logoColor=F56040" title="Single page application usando github pages"/>
 </a>
 <a href="https://www.linkedin.com/in/sirio-neto/" target="_blank">
